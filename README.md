@@ -37,6 +37,7 @@ A multi-threaded, modular brute-forcing tool for testing login form security. De
 Install requirements:
 ```bash
 pip install -r requirements.txt
+python3 bruteforce.py update
 ````
 
 ---
