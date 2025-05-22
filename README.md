@@ -153,7 +153,9 @@ Pull requests welcome! This tool is modular — feel free to fork and expand:
 ## 👨‍💻 Author
 
 **Praveen Kavinda**
+
 Cybersecurity Intern | Penetration Tester
+
 In collaboration with the InfoSec community ❤️
 
 ---
