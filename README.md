@@ -1,4 +1,4 @@
-````markdown
+
 # 🔐 Brute Force Tool
 
 A multi-threaded, modular brute-forcing tool for testing login form security. Designed for **ethical hackers**, **penetration testers**, and **security researchers**.
